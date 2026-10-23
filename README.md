@@ -9,7 +9,7 @@
 
 ---
 
-## 🎯 Contexte
+##   Contexte
 
 Projet pédagogique conçu pour former des étudiants Data à la construction d'un **dashboard de pilotage commercial end-to-end** sur un cas retail multi-magasins.
 
@@ -112,7 +112,7 @@ RANKX ( ALL ( Magasins ), [CA_Total], , DESC, DENSE )
 
 ---
 
-## 💡 Insights business identifiés
+##   Insights business identifiés
 
 En explorant le dashboard, 5 insights métier émergent :
 
@@ -143,7 +143,7 @@ boutiqueparis-dashboard/
 
 ---
 
-## 🚀 Comment reproduire le projet
+##   Comment reproduire le projet
 
 ### Pré-requis
 - Power BI Desktop (gratuit) · [Télécharger](https://powerbi.microsoft.com/desktop)
@@ -197,7 +197,7 @@ Data Analyst · Analytics Engineer · Consultant Power BI
 
 ---
 
-## 📜 Licence
+##   Licence
 
 Ce projet est sous licence **MIT** — vous êtes libre de l'utiliser, modifier et distribuer pour vos propres besoins pédagogiques ou professionnels.
 
@@ -205,9 +205,9 @@ Voir le fichier [LICENSE](LICENSE) pour les détails.
 
 ---
 
-## 🌟 Si ce projet vous est utile
+##   Si ce projet vous est utile
 
-Pensez à **⭐ star le repo** pour le partager avec la communauté Data francophone !
+Pensez à **  star le repo** pour le partager avec la communauté Data francophone !
 
 ---
 
